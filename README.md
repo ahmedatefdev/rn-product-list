@@ -1,4 +1,4 @@
-# React Native Test Task
+# React Native Test Task (Product List Page & Pretend Backend Interaction)
 
 ## Overview
 
@@ -38,3 +38,5 @@ This repository contains my solution for the React Native test tasks. The tasks 
      ```bash
      yarn start
      ```
+     
+### NOTE: make sure to use Node 16 or newer.
