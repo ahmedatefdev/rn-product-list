@@ -12,11 +12,11 @@ import {useProductContext} from '../context/useProductContext';
 const ProductList: React.FC = () => {
   const {
     searchText,
-    handleSearch,
     filteredProducts,
     loading,
-    handleLoadMore,
     products,
+    handleSearch,
+    handleLoadMore,
   } = useProductContext();
 
   return (
